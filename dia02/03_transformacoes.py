@@ -39,3 +39,6 @@ def teozinho(x):
 # %%
 
 df["precoAjustado"].apply( teozinho )
+# %%
+df
+# %%
